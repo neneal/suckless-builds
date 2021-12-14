@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "Hack-12";
+static char *font = "Hack-11";
 static int borderpx = 8;
 
 /*
